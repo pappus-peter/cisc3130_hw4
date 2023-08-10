@@ -1,0 +1,33 @@
+Start reading family tree: 
+Jones added son Bob
+Bob added brother Dan
+Dan added brother Brian
+Bob added son Richard
+Richard added brother Jake
+Brian added son Michael
+Jake added son Bill
+Michael added son Deville
+
+
+-----
+1. Father of Richard is: Bob
+
+
+-----
+9a. Grandfather of Bill is: Bob
+
+
+-----
+9b. Grandfather of Deville is: Brian
+
+
+-----
+3. all the brothers of Dan are: Bob, Brian
+
+
+-----
+4a. Oldest brother of Dan is: Bob
+
+
+-----
+4b. Oldest brother of Michael is: himself
